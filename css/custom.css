@@ -1,0 +1,67 @@
+/* @import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700"); */
+@import url(http://fonts.googleapis.com/css?family=Lobster|Cabin:400,700);
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: 'Lobster', cursive;
+  font-weight: 500;
+  line-height: 1.1;
+  /* color: inherit; */
+  color: #C60C30;
+}
+
+.soxblue {
+  color: #002244;
+}
+
+.jumbotron h1 {
+  color: #C60C30;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 24px;
+}
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+
+.navbar-inverse {
+  background-color: #002244;
+  border-color: #080808;
+}
+
+legend {
+  font-family: 'Lobster', cursive;
+  /* color: #fff; */
+}
+
+body {
+  font-family: "Cabin", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  /* color: #ffffff;
+  background-color: #108a93; */
+}
+
+.bio {
+  text-align: justify;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.pjust {
+  text-align: justify;
+}
